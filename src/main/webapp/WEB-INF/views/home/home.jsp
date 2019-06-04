@@ -1,10 +1,10 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8"
+﻿<%@ page language="java" contentType="text/html; charset=UTF-8"
 	pageEncoding="UTF-8"%>
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>
 <html>
 <head>
 <jsp:include page="head.jsp" />
-<title>JHJ PortFolio</title>
+<title>JHJ Portfolio</title>
 </head>
 
 <body>
@@ -39,7 +39,7 @@
 		</nav>
 
 		<div class="jumbotron">
-			<h1>JHJ PortFolio</h1>
+			<h1>JHJ Portfolio</h1>
 			<p>신입 개발자 조현정입니다.<br><br>
 			// 작업물<br>
 			제가 작성한 프로젝트 소스를 열람할 수 있습니다.<br>
