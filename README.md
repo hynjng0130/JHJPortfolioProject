@@ -13,4 +13,4 @@
 * Bootstrap
 
 ### 미리보기
-![sample](./image/sampleimage.png)
+![sample](./src\main\resources/sampleimage.png)
