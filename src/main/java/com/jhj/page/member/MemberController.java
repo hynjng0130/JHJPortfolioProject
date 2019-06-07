@@ -1,9 +1,5 @@
 package com.jhj.page.member;
 
-import java.text.DateFormat;
-import java.util.Date;
-import java.util.Locale;
-
 import javax.servlet.http.HttpSession;
 
 import org.slf4j.Logger;

@@ -30,8 +30,8 @@
 					<ul class="nav navbar-nav navbar-right">
 						<li>
 							<div class="btn-group" role="group" aria-label="...">
-								<button type="button" class="btn btn-default navbar-btn" onclick="location.href='page/member/signup/'">회원가입</button>
-								<button type="button" class="btn btn-primary navbar-btn" onclick="location.href='page/member/signin/'">로그인</button>
+								<button type="button" class="btn btn-default navbar-btn" onclick="location.href='member/signup/'">회원가입</button>
+								<button type="button" class="btn btn-primary navbar-btn" onclick="location.href='member/signin/'">로그인</button>
 							</div>
 						</li>
 					</ul>
