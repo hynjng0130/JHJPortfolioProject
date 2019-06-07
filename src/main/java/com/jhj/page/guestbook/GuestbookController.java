@@ -1,4 +1,4 @@
-package com.jhj.page.member;
+package com.jhj.page.guestbook;
 
 import javax.servlet.http.HttpSession;
 
@@ -13,18 +13,13 @@ import org.springframework.web.bind.annotation.RequestMethod;
  * Handles requests for the application home page.
  */
 @Controller
-public class MemberController {
+public class GuestbookController {
 	
-	private static final Logger logger = LoggerFactory.getLogger(MemberController.class);
+	private static final Logger logger = LoggerFactory.getLogger(GuestbookController.class);
 	
-	@RequestMapping(value = "member/signup", method = RequestMethod.GET)
+	@RequestMapping(value = "guestbook/index", method = RequestMethod.GET)
 	public String signup(Model model, HttpSession session) {
-		return "member/signup";
-	}
-	
-	@RequestMapping(value = "member/signin", method = RequestMethod.GET)
-	public String signin(Model model, HttpSession session) {
-		return "member/signin";
+		return "guestbook/index";
 	}
 	
 }
