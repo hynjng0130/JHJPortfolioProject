@@ -10,6 +10,8 @@
 <body>
 	<div class="container">
 		<jsp:include page="../menu.jsp" />
+		
+		회원가입
 
 		<div class="control-group">
 			<label class="control-label" for="username">닉네임</label>
@@ -52,6 +54,7 @@
 			</div>
 		</div>
 
+가입버튼
 
 	</div>
 	<!-- /container -->
