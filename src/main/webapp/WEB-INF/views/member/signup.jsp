@@ -15,7 +15,7 @@
 			<form class="form-horizontal">
 				<h1>회원가입</h1>
 				<div class="form-group">
-					<label for="username" class="col-sm-2 control-label">닉네임</label>
+					<label for="username" class="col-sm-4 control-label">닉네임</label>
 					<div class="input-group">
 						<span class="input-group-addon" id="basic-addon1"> <span
 							class="glyphicon glyphicon-user" aria-hidden="true"></span>
@@ -24,7 +24,7 @@
 					</div>
 				</div>
 				<div class="form-group">
-					<label for="email" class="col-sm-2 control-label">이메일</label>
+					<label for="email" class="col-sm-4 control-label">이메일</label>
 					<div class="input-group">
 						<span class="input-group-addon" id="basic-addon2"> <span
 							class="glyphicon glyphicon-envelope" aria-hidden="true"></span>
@@ -33,7 +33,7 @@
 					</div>
 				</div>
 				<div class="form-group">
-					<label for="password" class="col-sm-2 control-label">비밀번호</label>
+					<label for="password" class="col-sm-4 control-label">비밀번호</label>
 					<div class="input-group">
 						<span class="input-group-addon" id="basic-addon3"> <span
 							class="glyphicon glyphicon-lock" aria-hidden="true"></span>
@@ -42,7 +42,7 @@
 					</div>
 				</div>
 				<div class="form-group">
-					<label for="pwconfirm" class="col-sm-2 control-label">닉네임</label>
+					<label for="pwconfirm" class="col-sm-4 control-label">비밀번호 확인</label>
 					<div class="input-group">
 						<span class="input-group-addon" id="basic-addon4"> <span
 							class="glyphicon glyphicon-lock" aria-hidden="true"></span>
@@ -52,7 +52,7 @@
 				</div>
 
 				<div class="form-group">
-					<div class="col-sm-offset-2">
+					<div class="col-sm-offset-4">
 						<button type="submit" class="btn btn-primary">회원가입</button>
 					</div>
 				</div>
