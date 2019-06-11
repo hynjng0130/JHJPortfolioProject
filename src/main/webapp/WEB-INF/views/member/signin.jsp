@@ -8,8 +8,8 @@
 </head>
 
 <body>
-	<div class="container">
 	<jsp:include page="../menu.jsp" />
+	<div class="container">
 
 	</div>
 	<!-- /container -->
